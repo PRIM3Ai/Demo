@@ -2,9 +2,11 @@
 Demo Test for Frontend Developer
 
 # Instructions
+We want you to enhance the QuickBuy button, add unique icons, and improve the overall design of the Memescope.tsx page.
 
-The Page we want you to modify is project/src/pages/Memescope.tsx
-
-Make the QuickBuy button look better, use creativity we want to see your design skills. Improve the overall look of the page.
-
-Add important token metric icons like shown in the example, you can create your own icons or use existing. We want to see your frontend UI design expertise. 
+Tasks:
+Modify the QuickBuy button to improve its appearance. Use your creativity to showcase your design skills.
+Enhance the overall UI of the page for a better user experience.
+Add important token metric icons similar to those shown in photonexample.png. You may create your own icons or use existing ones.
+Implement the changes using React (Vite + TypeScript).
+We are looking for strong frontend UI/UX design expertise, so focus on both aesthetics and functionality. 
